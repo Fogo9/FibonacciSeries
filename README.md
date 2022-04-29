@@ -1,22 +1,20 @@
 # **FIBONACCI SERIES**
 
-# Information
+## INFORMATION
 
 * **Program to find fibonacci series with for loop.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **i**, **n**, **a**, **b** and **c** are defined with int.
 
 * Scanner class is defined to receive data from the user.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -65,13 +63,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/FibonacciSeries.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
