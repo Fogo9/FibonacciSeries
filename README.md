@@ -75,7 +75,7 @@
 
 <br />
 
->[Patika.dev](https://app.patika.dev/fogomurphy)
+
 
 <br/>
 
