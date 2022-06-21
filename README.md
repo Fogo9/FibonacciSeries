@@ -77,7 +77,6 @@
 
 
 
-
 | Name |  Email |
 | ---- |  ----- |
 | Tuncay | tuncaydemir682@gmail.com |
